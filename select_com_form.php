@@ -19,4 +19,5 @@ include_once "../conexao_pagina/conexao_pagina.php";
 <p>Texto Lateral 3º:<textarea name=\"text7\" rows=\"10\" cols=\"30\" />".$linha1['TextLateral3']."</textarea></p>
 <input type=\"submit\" />
 </form>";
-		
+		}
+		?>
