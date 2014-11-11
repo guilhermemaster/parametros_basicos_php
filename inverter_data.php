@@ -48,6 +48,6 @@ function troca_data($data){
 	print $segun;
 }
 
-$data="2014-02-18";
+$data="2014-02-20";
 print troca_data($data);
 ?>
