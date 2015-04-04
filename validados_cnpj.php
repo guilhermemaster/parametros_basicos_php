@@ -81,3 +81,5 @@ if ( valida_cnpj('12.345.678/0001-95') ) {
 } else {
 	echo "CNPJ inválido.";
 }
+
+https://gist.github.com/ghsehn/3276302
